@@ -22,3 +22,12 @@ git clone https://github.com/your-username/covid19-dashboard.git
 cd covid19-dashboard
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+### 📊 Dashboard View
+![Screenshot 1](screenshot1.png)
+
+### 📈 Forecasting / Visualization Example
+![Screenshot 2](screenshot2.png)
+
