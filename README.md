@@ -13,7 +13,7 @@ An interactive dashboard to explore and forecast COVID-19 data for countries aro
 
 ## 🚀 Live Demo
 
-🔗 [Try the Live App](https://yourname-covid19-dashboard.streamlit.app)
+👉 [Click here to view the live app](https://covid19-dashboard-cjjjy7x65mj7jrhtkvyssh.streamlit.app/)
 
 ## 📦 Installation
 
